@@ -1,0 +1,97 @@
+body {
+  background-color: #f7f7f7;
+}
+
+.sidebar {
+  margin: 0;
+  padding: 10px 20px;
+  width: 300px;
+  background-color: #ffffff;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+}
+
+div.content {
+  margin-left: 300px;
+  padding: 1px 16px;
+}
+
+.customer-name {
+  font-weight: 600;
+  font-size: 20px;
+  word-wrap: break-word;
+  padding-right: 10px;
+  margin-bottom: 0;
+}
+
+.profile-tab {
+  text-transform: none;
+}
+.list-icon {
+  min-width: 35px !important;
+  align-self: flex-start;
+  margin-top: 5px;
+  color: gray !important;
+}
+.list-key {
+  width: 100px !important;
+  align-self: flex-start;
+  margin-top: 5px;
+  color: rgb(137, 137, 137);
+  font-size: 13px;
+  margin-right: 10px;
+}
+
+.loan {
+  width: 150px !important;
+}
+.list-value {
+  word-wrap: break-word;
+  color: black !important;
+  font-size: 12px !important;
+}
+
+.overview-card {
+  /* box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px,
+    rgba(0, 0, 0, 0.3) 0px 3px 7px -3px; */
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  background-color: #ffffff;
+}
+
+.card-heading {
+  width: 100%;
+  padding: 10px;
+  border-bottom: 1px solid rgb(218, 218, 218) !important;
+  color: gray;
+  font-size: 13px;
+  margin-bottom: 0;
+}
+
+.sub-heading {
+  color: rgb(128, 17, 130);
+  font-size: 13px;
+}
+
+.card-content {
+  padding: 16px;
+}
+
+.edit-btn {
+  width: 100%;
+  border: 1px solid rgb(192, 192, 192) !important;
+  margin-top: 50px !important;
+  color: purple !important;
+}
+
+.edit-btn .edit-icon {
+  font-size: 16px;
+  margin-right: 10px;
+}
+
+.doc-btns {
+  margin-left: 25px;
+  color: purple;
+  cursor: pointer;
+}

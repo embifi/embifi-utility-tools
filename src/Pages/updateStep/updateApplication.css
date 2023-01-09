@@ -1,0 +1,33 @@
+.wrapper{
+    padding: 100px;
+}
+.status-card{
+    padding: 20px 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 10px;
+}
+
+.status-card p{
+    font-size: 20px ;
+}
+
+.application-details {
+    position: relative;
+    padding: 10px;
+}
+
+.application-details .head{
+    color: rgb(155, 155, 155);
+    font-size: 12px;
+    margin-right: 10px;
+}
+
+.application-details p{
+    margin-bottom: 0;
+}
+
+.application-details .align-right{
+    position: absolute;
+    right: 10px;
+    top: 10px;
+}

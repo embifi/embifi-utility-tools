@@ -1,0 +1,19 @@
+
+.tableContainer{
+    min-height: 90vh!important;
+}
+
+.go-back-btn{
+    margin-top: 20px;
+    margin-left: 30px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.go-back-btn-fixed {
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}

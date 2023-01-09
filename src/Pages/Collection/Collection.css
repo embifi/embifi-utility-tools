@@ -1,0 +1,10 @@
+.max-height-document{
+    max-height: 90vh !important;
+    padding: 20px 40px;
+}
+
+.document-wrapper{
+    overflow-y: scroll ;
+    height: 60vh;
+    padding: 20px;
+}

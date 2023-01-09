@@ -1,0 +1,20 @@
+.sidenav-btn{
+    cursor: pointer;
+    /* background-color: gray; */
+    padding: 10px 20px;
+}
+
+.sidenav-btn:hover{
+    background-color: rgb(226, 226, 226);
+    transition: all 0.2s ease;
+}
+
+.side-active {
+    color: purple;
+}
+
+.scroll-top-btn{
+    position: absolute !important;
+    left: 20px !important;
+    bottom: 20px !important;
+}

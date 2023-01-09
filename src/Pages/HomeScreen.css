@@ -1,0 +1,82 @@
+.wrapper-center-home {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-holder {
+  width: 50%;
+  /* box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+  /* box-shadow: rgba(0, 0, 0, 0.05) 0px 6px 24px 0px, rgba(0, 0, 0, 0.08) 0px 0px 0px 1px; */
+  /* box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px; */
+}
+
+.home-card {
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  height: 170px;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  cursor: pointer;
+  background-color: white;
+}
+
+.home-heading{
+    font-size: 20px;
+    color: rgb(193, 193, 193);
+}
+
+.home-card:hover {
+  box-shadow: rgba(162, 0, 255, 0.375) 0px 2px 8px 0px;
+}
+
+/* .button-ico {
+  font-size: 40px !important;
+  margin-bottom: 0;
+} */
+
+
+.button-ico {
+  width: 60px;
+}
+
+.ico-tag{
+  color: rgb(108, 108, 108) !important;
+  font-weight: 500;
+}
+
+.more-tools-heading{
+  color: purple;
+  font-size: 18px;
+  padding: 20px;
+}
+
+.more-tools-content{
+  min-width: 500px !important;
+}
+
+.more-tools-content .more-list-item{
+  cursor: pointer;
+  color: black !important;
+}
+
+.more-list-item{
+  box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+  padding: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  color: gray;
+}
+.accord-user {
+  box-shadow: rgb(99 99 99 / 20%) 0px 2px 8px 0px;
+  padding: 6px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  font-weight: 500;
+  color: gray;
+  border-top: 1px solid white;
+}
+

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/embifi-utility-tools/static/css/main.05998206.css",
+    "main.js": "/embifi-utility-tools/static/js/main.28f3dd68.js",
+    "static/media/cloud-upload.gif": "/embifi-utility-tools/static/media/cloud-upload.c4269bbb773c0c9ea11f.gif",
+    "static/media/loading-black.gif": "/embifi-utility-tools/static/media/loading-black.7d04f8225d78644ede43.gif",
+    "static/media/upload.jpg": "/embifi-utility-tools/static/media/upload.ec238ac2c2846c477cf8.jpg",
+    "static/media/view-application.jpg": "/embifi-utility-tools/static/media/view-application.622e69142714f04f2f00.jpg",
+    "static/media/edit-stage.png": "/embifi-utility-tools/static/media/edit-stage.311a00ecfe6a2e7dc02b.png",
+    "static/media/pdf.png": "/embifi-utility-tools/static/media/pdf.46de44589ccd9c856deb.png",
+    "static/media/png.png": "/embifi-utility-tools/static/media/png.511f2de90e4191b9b95f.png",
+    "static/media/e.png": "/embifi-utility-tools/static/media/e.706dda6367d9a27dfe56.png",
+    "static/media/jpg.png": "/embifi-utility-tools/static/media/jpg.a6bcd82b57b58dd91b34.png",
+    "static/media/schedule.svg": "/embifi-utility-tools/static/media/schedule.951e3e8ce287162c4f47a2e264d4faca.svg",
+    "static/media/aadhaar.svg": "/embifi-utility-tools/static/media/aadhaar.b21830447aac1a14bddddb6f00684e94.svg",
+    "index.html": "/embifi-utility-tools/index.html",
+    "static/media/add.svg": "/embifi-utility-tools/static/media/add.418e7a267d96c6b7dd46f866bde0d254.svg",
+    "static/media/edit.svg": "/embifi-utility-tools/static/media/edit.92f900699bddb24267ba7f02ebc2ff56.svg",
+    "static/media/parser.svg": "/embifi-utility-tools/static/media/parser.1be07aa0f81e2d8b83f492a2865465b2.svg",
+    "static/media/documents.svg": "/embifi-utility-tools/static/media/documents.8c6f68b452a4aa201c72e9da7a7cc086.svg",
+    "main.05998206.css.map": "/embifi-utility-tools/static/css/main.05998206.css.map",
+    "main.28f3dd68.js.map": "/embifi-utility-tools/static/js/main.28f3dd68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05998206.css",
+    "static/js/main.28f3dd68.js"
+  ]
+}
